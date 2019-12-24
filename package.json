@@ -1,0 +1,19 @@
+{
+  "name": "reqPar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "slugify": "^1.3.6",
+    "transliteration": "^2.1.7"
+  }
+}
